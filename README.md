@@ -2,7 +2,6 @@
 
 A powerful Streamlit-based application that combines multiple AI modalities (text, image, audio, and video processing) into a single chat interface using local Ollama models and other open-source AI tools.
 
-![Multimodal AI Assistant](https://raw.githubusercontent.com/username/multimodal-ai-assistant/main/screenshot.png)
 
 ## Features
 
