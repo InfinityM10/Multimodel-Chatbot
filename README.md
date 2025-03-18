@@ -102,7 +102,7 @@ A powerful Streamlit-based application that combines multiple AI modalities (tex
 
 2. **Run the Streamlit App**:
    ```bash
-   streamlit run all.py
+   streamlit run app.py
    ```
 
 3. **Access the Application**:
