@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit>=1.30.0
+requests>=2.31.0
+Pillow>=10.0.0
+
+# AI and ML libraries
+torch>=2.0.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4  # Use faiss-gpu instead if you have CUDA support
+numpy>=1.24.0
+
+# Audio processing
+openai-whisper>=20231117
+
+# Video processing
+opencv-python>=4.8.0
+
+# For temporary file handling
+python-ffmpeg>=2.0.0
+
+# Note: ffmpeg is a system dependency that needs to be installed separately
+# On Ubuntu/Debian: sudo apt-get install ffmpeg
+# On macOS: brew install ffmpeg
+# On Windows: Download from https://ffmpeg.org/download.html or use Chocolatey: choco install ffmpeg
